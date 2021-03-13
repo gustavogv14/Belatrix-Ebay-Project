@@ -6,5 +6,5 @@ from src.modelo.declarative_base import Session
 
 class AlbumTestCase(unittest.TestCase):
 
-    def test_prueba(self):
+    def test_pruebaa(self):
         self.assertEqual(0, 0)
